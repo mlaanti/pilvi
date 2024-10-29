@@ -1,6 +1,6 @@
 body {
-    background-color: #d2e2f2;
-    font-family: Roboto, sans-serif;
+    background-color: #fafafa;
+    font-family: helvetica, arial, sans-serif;
 }
 
 h1 {
@@ -8,6 +8,6 @@ h1 {
 }
 
 .container {
-    max-width: 960px;
+    max-width: 50%;
     margin: 0 auto;
 }
